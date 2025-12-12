@@ -1,5 +1,24 @@
 # 💫 About Me:
-👋 Hi<br>My name is ASWAN SAJEEV<br>Electrical & Electronics Engineering Student | AI, Drone & Circuit Design Enthusiast<br><br>I’m an Electrical & Electronics Engineering student from NIT Andhra Pradesh, passionate about understanding how hardware and software come together to build real-world systems. I started with basic circuits and Arduino projects, and gradually moved into learning power systems, control systems, embedded development, and AI-based automation.<br><br>I enjoy experimenting with new technologies, building projects that solve practical engineering problems, and continuously expanding my skills in both hardware and intelligent systems.<br><br>🌍 I'm based in India<br><br>📧 You can contact me at aswansaji@gmail.com<br><br>📚 I'm currently learning Embedded Systems, Matlab, ML and Circuit Design<br><br>🤝 I'm looking to collaborate on AI-based electronics projects, automation, and power/EE projects
+👋 Hi<br>
+
+My name is ASWAN SAJEEV
+Electrical & Electronics Engineering Student | AI, Drone Technology & Embedded Systems Enthusiast
+<br>
+
+I am an Electrical & Electronics Engineering student at NIT Andhra Pradesh, with a strong interest in embedded systems, automation, and electric vehicles. My journey began with fundamental electronics and microcontroller-based projects, gradually expanding into advanced domains such as power systems, control systems, AI-driven automation, and real-time embedded development.
+
+I actively work on projects using Arduino Uno, Raspberry Pi, STM32, and ESP32, integrating sensors, communication modules, and AI techniques to develop practical engineering solutions. I am also currently working on an AI-based circuit designing model that helps users generate optimized circuit concepts based on their requirements.
+
+I enjoy exploring emerging technologies, designing efficient circuits, and building systems that seamlessly connect hardware with intelligent software.
+<br>
+
+🌍 Based in India
+
+📧 Reach me at aswansaji@gmail.com
+
+📚 Currently learning Embedded Systems, MATLAB, Machine Learning, and Circuit Design
+
+🤝 Open to collaborations in AI-driven electronics, automation, electric vehicles, drones, and power/EE engineering projects
 
 
 ## 🌐 Socials:
