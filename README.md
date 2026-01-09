@@ -16,16 +16,19 @@ I enjoy exploring emerging technologies, designing efficient circuits, and creat
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_INSTAGRAM_LINK" target="https://www.instagram.com/am_aswan_s/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-<a href="YOUR_LINKEDIN_LINK" target="www.linkedin.com/in/aswansaji">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:aswansaji@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+  <a href="https://www.instagram.com/am_aswan_s/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aswansaji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="mailto:aswansaji@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
+
 
 ---
 
